@@ -20,6 +20,8 @@ To day i decided my project scope and the hardware and software i am going to us
  - A small microphone
  - (2-5W) speaker
  - 32gb microsd card
+ - cooling fan
+ - Display
  - Jumper Wires, DuPont Connectors, Speaker Wire
 
 ## Software
