@@ -13,10 +13,10 @@ To day i decided my project scope and the hardware and software i am going to us
 ## **Project scope**:  
 #### This project is going to be a simple ai pet (**Bujji**) inspired from movie [KALKI 2898 AD](https://en.wikipedia.org/wiki/Kalki_2898_AD) which is run locally without any internet connection any corporate hook.
 ---
-## Hardware(Not finalized) 
+## Hardware() 
 
  - Raspberry pi 4 or 5 [For the PCB]
- - 3d printed case 
+~~ - 3d printed case ~~ 
  - A small microphone
  - (2-5W) speaker
  - 32gb microsd card
