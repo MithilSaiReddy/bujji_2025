@@ -32,3 +32,18 @@ To day i decided my project scope and the hardware and software i am going to us
 - LLM
 	- Tiny LLaMa
 - And some cutom logic ofc!
+---
+# Day 2 (04-06-25)
+
+I think every day is not  exciting but i believe in consistency .so today after many designs i finalized one which is simple and works!
+---
+## Design :- 
+![My imagination ](https://github.com/MithilSaiReddy/bujji_2025/blob/main/assets/basic.jpg)
+
+### Hope the final case also looks like this 😅
+
+![Side view](https://github.com/MithilSaiReddy/bujji_2025/blob/main/assets/case_side.png)
+
+*AS this is my first hardware project i want to keep the design simple and good looking*
+
+---
