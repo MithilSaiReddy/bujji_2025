@@ -72,7 +72,7 @@ I think every day is not  exciting but i believe in consistency .so today after 
 |F2F JUMPERS 40pcs|$0.47(40rs)|[Jumpers](https://robocraze.com/products/f2m-jumper-wires-20cm-40pcs?variant=40192519110809&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=21593322920&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=21586700133&gclid=CjwKCAjwo4rCBhAbEiwAxhJlCfrt711LaLnHcuCv_w3fFb-kTsXOa9SJXbZHBpZzPifA4-7tvzGH4xoChmIQAvD_BwE)|
 |12V/2A Power Adapter|$2.34(200rs)|[Power Adapter](https://robocraze.com/products/12-volt-2-amp-power-adapter-ac-to-dc?variant=43483624145120&country=IN&currency=INR&campaignid=21596928874&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=21596930350)|
 |3D Printing|$11,70(1000rs)| i will use Robu as it is from india and could lower the transportation cost|
-|30 X screws|$0.023(2rs)||
+|30 X screws|$0.023(2rs)|Any website|
 ---
 
 ### The Final price is under  $75(approx)
