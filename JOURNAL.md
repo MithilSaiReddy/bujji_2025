@@ -4,10 +4,10 @@ author: "Mithil (@Mithil)"
 description: "An ai pet but with a little sarcasam"
 created_at: "2025-06-2"
 ---
-
+# Total Time spent :- 12.5 hrs
 ---
 # Day 1 (03-06-25)
-
+## Time spent :- 4hrs
 To day i decided my project scope and the hardware and software i am going to use
 ---
 ## **Project scope**:  
@@ -34,7 +34,7 @@ To day i decided my project scope and the hardware and software i am going to us
 - And some cutom logic ofc!
 ---
 # Day 2 (04-06-25)
-
+## Time spent:- 3.5hrs
 I think every day is not  exciting but i believe in consistency .so today after many designs i finalized one which is simple and works!
 ---
 ## Design :- 
@@ -48,6 +48,7 @@ I think every day is not  exciting but i believe in consistency .so today after 
 
 ---
 # Day 3(12-06-25)
+## Time spent :- 5 hrs
 ## I failed to maintain consistency due to my laptop and other stuff going on suddenly but i do want to leave this idea or this opportunity to build what i have in mind so in this time I researched  all the materials required 
 
 ## BOM:
