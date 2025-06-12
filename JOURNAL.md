@@ -62,7 +62,7 @@ I think every day is not  exciting but i believe in consistency .so today after 
 |3D Printing|$11,70(1000rs)| i will use Robu as it is from india and could lower the transportation cost|
 ---
 
-### The Final price is under  $60
+### The Final price is under $75
 
 ### I think my side work is done now the hackclub team should review the project and hope they fund it to give life to bujji coming to the software part i think i can only work on it if i have the hardware with me because the system i am using is also far less capable .Hope everything goes right 😊.
 
