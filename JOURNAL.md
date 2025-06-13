@@ -11,7 +11,7 @@ created_at: "2025-06-2"
 To day i decided my project scope and the hardware and software i am going to use
 ---
 ## **Project scope**:  
-#### This project is going to be a simple ai pet (**Bujji**) inspired from movie [KALKI 2898 AD](https://en.wikipedia.org/wiki/Kalki_2898_AD) which is run locally without any internet connection any corporate hook.
+#### This project is going to be a simple ai pet (**Bujji**) inspired from movie [KALKI 2898 AD](https://en.wikipedia.org/wiki/Kalki_2898_AD) which runs locally without any internet connection any corporate hook.
 
 ### How bujji looks in movie  :- 
 <iframe src="https://giphy.com/embed/vimUproo3ezLVnCK8r" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -75,7 +75,7 @@ I think every day is not  exciting but i believe in consistency .so today after 
 |30 X screws|$0.023(2rs)|Any website|
 ---
 
-### The Final price is under  $75(approx)
+### The Final price is under  $100(including shipping)
 
 ### I think my side work is done now the hackclub team should review the project and hope they fund it to give life to bujji coming to the software part i think i can only work on it if i have the hardware with me because the system i am using is also far less capable .Hope everything goes right 😊.
 
