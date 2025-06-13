@@ -1,5 +1,5 @@
 ## Project :  
-#### This project is going to be a simple ai pet (**Bujji**) inspired from movie [KALKI 2898 AD](https://en.wikipedia.org/wiki/Kalki_2898_AD) which is run locally without any internet connection any corporate hook.
+#### This project is going to be a simple ai pet (**Bujji**) inspired from movie [KALKI 2898 AD](https://en.wikipedia.org/wiki/Kalki_2898_AD) which runs locally without any internet connection any corporate hook.
 
 #### The main reason for making this project is the movie kalki .In this movie bujji has its own unique personality which makes it life-like not just a robot who follows commands. even through my design  its not exactly as the  the bujji from kalki i slowly want to iterate it  and make it better it in every version.  Hope in future every one has their own bujji 😊.
  (***Repati Kosam***)
