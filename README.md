@@ -34,5 +34,5 @@
 |30 X screws|$0.023(2rs)|No any specific website|
 ---
 
-### The Final price is under  $75(approx)
+### The Final price is under $100(including shipping and other costs)
 
